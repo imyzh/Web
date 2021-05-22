@@ -1,0 +1,16 @@
+{
+  "tk": "8.6",
+  "xz": "5",
+  "zlib": "1.2",
+  "sqlite": "3",
+  "c_compiler_version": "7.3.0",
+  "cxx_compiler_version": "7.3.0",
+  "c_compiler": "gcc",
+  "channel_targets": "defaults",
+  "libffi": "3.3",
+  "readline": "8.0",
+  "target_platform": "linux-64",
+  "openssl": "1.1.1",
+  "bzip2": "1.0",
+  "cxx_compiler": "gxx"
+}

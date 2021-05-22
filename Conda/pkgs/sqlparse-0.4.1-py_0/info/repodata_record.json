@@ -1,0 +1,25 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "features": "",
+  "fn": "sqlparse-0.4.1-py_0.conda",
+  "legacy_bz2_md5": "0aa98099a852ef617c13f1f0be6a8636",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "md5": "37d7ee9f32684a1cb15cddaedd15df33",
+  "name": "sqlparse",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "478ed6fd74dcd90d8e2f6d2c4286be2b24607df5c90d00daccc20698f32dda6e",
+  "size": 35970,
+  "subdir": "noarch",
+  "timestamp": 1602184478589,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/sqlparse-0.4.1-py_0.conda",
+  "version": "0.4.1"
+}

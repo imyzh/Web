@@ -1,0 +1,64 @@
+{
+  "build": "pyhd3eb1b0_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/opt/Web/Conda/pkgs/certifi-2020.6.20-pyhd3eb1b0_3",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/certifi-2020.6.20-py3.6.egg-info/PKG-INFO",
+    "lib/python3.8/site-packages/certifi-2020.6.20-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.8/site-packages/certifi-2020.6.20-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.8/site-packages/certifi-2020.6.20-py3.6.egg-info/installed-files.txt",
+    "lib/python3.8/site-packages/certifi-2020.6.20-py3.6.egg-info/not-zip-safe",
+    "lib/python3.8/site-packages/certifi-2020.6.20-py3.6.egg-info/top_level.txt",
+    "lib/python3.8/site-packages/certifi/__init__.py",
+    "lib/python3.8/site-packages/certifi/__main__.py",
+    "lib/python3.8/site-packages/certifi/cacert.pem",
+    "lib/python3.8/site-packages/certifi/core.py",
+    "lib/python3.8/site-packages/certifi/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/certifi/__pycache__/__main__.cpython-38.pyc",
+    "lib/python3.8/site-packages/certifi/__pycache__/core.cpython-38.pyc"
+  ],
+  "fn": "certifi-2020.6.20-pyhd3eb1b0_3.conda",
+  "legacy_bz2_md5": "7e46166a83b373cdb73fdc060c7a4d7a",
+  "legacy_bz2_size": 162949,
+  "license": "ISC",
+  "link": {
+    "source": "/opt/Web/Conda/pkgs/certifi-2020.6.20-pyhd3eb1b0_3",
+    "type": 1
+  },
+  "md5": "32bb6146e083af30d8570ca1c84e826c",
+  "name": "certifi",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/Web/Conda/pkgs/certifi-2020.6.20-pyhd3eb1b0_3.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/certifi/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/certifi/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/certifi/__pycache__/core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "certifi==2020.6.20=pyhd3eb1b0_3",
+  "sha256": "81b91cd200370892f8dfb533401003f0efd72d627465524bf18a22a9b80e7a14",
+  "size": 159212,
+  "subdir": "noarch",
+  "timestamp": 1604070482618,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/certifi-2020.6.20-pyhd3eb1b0_3.conda",
+  "version": "2020.6.20"
+}

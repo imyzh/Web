@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64",
+  "build": "py36_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "pytz",
+    "sqlparse"
+  ],
+  "features": "",
+  "fn": "django-2.2.5-py36_1.conda",
+  "legacy_bz2_md5": "0666b99cd71c4f3c1de37a032753b6c7",
+  "license": "BSD 3-Clause",
+  "md5": "4a435acee0e4cf22aa8b84c36755c19f",
+  "name": "django",
+  "platform": "linux",
+  "sha256": "2f5d686f4bb007808c7bd1c5c323e86e1f63f07fe0a5a80c8878022026b8bdce",
+  "size": 4034306,
+  "subdir": "linux-64",
+  "timestamp": 1569445764636,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/django-2.2.5-py36_1.conda",
+  "version": "2.2.5"
+}

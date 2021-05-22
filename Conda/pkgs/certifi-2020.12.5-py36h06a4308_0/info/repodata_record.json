@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64",
+  "build": "py36h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "features": "",
+  "fn": "certifi-2020.12.5-py36h06a4308_0.conda",
+  "legacy_bz2_md5": "2b3523375b4c388afc92d3fb625db97d",
+  "license": "ISC",
+  "md5": "40f599422f77a1abbfb62cf998eb316a",
+  "name": "certifi",
+  "platform": "linux",
+  "sha256": "f194b02d82b46ed3e5a4d2844c54395ce9b9fc961ebb1822b618e474c0303138",
+  "size": 143653,
+  "subdir": "linux-64",
+  "timestamp": 1607365724491,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/certifi-2020.12.5-py36h06a4308_0.conda",
+  "version": "2020.12.5"
+}

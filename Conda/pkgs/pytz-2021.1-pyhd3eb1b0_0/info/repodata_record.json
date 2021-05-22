@@ -1,0 +1,24 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "features": "",
+  "fn": "pytz-2021.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "c0d45c9d037b337ac9a517728e48d77f",
+  "license": "MIT",
+  "md5": "d245638e438fd69fc77153cf96d97830",
+  "name": "pytz",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "dca0a887dae621c20e68318305433f015e3428d4e011c13fe358ed2dec3bb9c7",
+  "size": 185408,
+  "subdir": "noarch",
+  "timestamp": 1612215426281,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pytz-2021.1-pyhd3eb1b0_0.conda",
+  "version": "2021.1"
+}

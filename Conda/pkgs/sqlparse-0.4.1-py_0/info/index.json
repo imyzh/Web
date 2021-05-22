@@ -1,0 +1,16 @@
+{
+  "arch": null,
+  "build": "py_0",
+  "build_number": 0,
+  "depends": [
+    "python"
+  ],
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "name": "sqlparse",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1602184478589,
+  "version": "0.4.1"
+}
